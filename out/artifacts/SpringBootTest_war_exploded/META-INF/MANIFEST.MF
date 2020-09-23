@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Created-By: IntelliJ IDEA
+Built-By: Lorenzo de' Medici
+Build-Jdk: 11.0.6
+Implementation-Title: springboot-duing-practise
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.duing
+Main-Class: ${start-class}
+
